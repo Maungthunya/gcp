@@ -11,7 +11,7 @@
       "settings": {
         "clients": [
           {
-            "id": "7c1674e4-f79d-4189-92a8-3ba719533a0d",
+            "id": "ced8d3ec-5878-4859-9dcd-bdbb934ccbb4",
             "flow": ""
           }
         ],
@@ -20,7 +20,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/မောင်သုည",
+          "path": "/gcp",
           "headers": {
             "Host": ""
           }
